@@ -101,9 +101,7 @@ The trained model successfully detects objects with high accuracy. Further optim
 
 🤝 Contributors
 
-Noha Elblkasy - Project Lead
-
-📞 Contact
+Noha Elblkasy 
 
 For any inquiries or collaborations, feel free to reach out:
-📧 nohaelblkasy@gmail.com🔗 LinkedIn
+📧 nohaelblkasy@gmail.com
